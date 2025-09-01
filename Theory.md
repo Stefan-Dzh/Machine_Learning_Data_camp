@@ -34,4 +34,4 @@ scikit-learn syntax - workflow is repeatable
 model = Model()
 model.fit(X(features),y(target variable))
 predictions = model.predict(X_new)
-print(predictions)"
+print(predictions) "

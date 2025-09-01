@@ -35,3 +35,7 @@ model = Model()
 model.fit(X(features),y(target variable))
 predictions = model.predict(X_new)
 print(predictions) "
+
+There are two types of supervised learning—classification and regression. 
+Binary classification is used to predict a target variable that has only two labels, typically represented numerically with a zero or a one.
+
